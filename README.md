@@ -23,7 +23,7 @@ For this project, I decide to use the Stack Overflow data from 2020 to better un
 The notebook available here showcases work related to the above questions.
 
 ## Results
-The main findings of the code can be found at the post available [here](https://medium.com/).
+The main findings of the code can be found at the post available [here](https://yemo-yannick.medium.com/three-mains-reasons-why-you-as-developer-need-to-work-in-2022-in-the-western-world-c051f55761a1).
 
 ## Licensing, Authors, Acknowledgements
 Must give credit to Stack Overflow for the data 2020. You can find the Licensing for the data and other descriptive information at Stack Overflow link available [here](https://insights.stackoverflow.com/survey). Otherwise, feel free to use the code here as you would like!
